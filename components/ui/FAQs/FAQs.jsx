@@ -23,8 +23,8 @@ const faqsList = [
         a: "AI-powered email marketing tools can help marketers save time and money by automating tasks such as segmentation, personalization, content optimization, and more.",
     },
     {
-        q: "Can I sell my digital products using Mailgo?",
-        a: "Of course you can market and sell your digital products and subscriptions with Mailgo to drive higher conversions and save big on fees.",
+        q: "Can I sell my digital products using Mash?",
+        a: "Of course you can market and sell your digital products and subscriptions with Mash to drive higher conversions and save big on fees.",
     }
 ]
 

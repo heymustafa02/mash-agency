@@ -9,7 +9,7 @@ export default function Login() {
   return (
     <>
       <Head>
-        <title>Login - Mailgo</title>
+        <title>Login - Mash</title>
       </Head>
       <main className='w-full h-screen flex flex-col items-center justify-center px-4'>
         <div className='max-w-sm w-full text-gray-300'>

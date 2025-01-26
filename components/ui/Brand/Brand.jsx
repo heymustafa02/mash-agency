@@ -3,7 +3,7 @@ import Image from "next/image"
 const Brand = ({ ...props }) => (
     <Image
         src="/logo.png"
-        alt="Mailgo logo"
+        alt="Mash logo"
         {...props}
         width={110}
         height={50}
